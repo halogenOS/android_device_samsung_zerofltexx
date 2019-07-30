@@ -1,6 +1,12 @@
 [
   {
     "remote":      "XOS",
+    "repository":  "android_device_samsung_zero-common",
+    "target_path": "device/samsung/zero-common",
+    "branch":      "XOS-9.0"
+  },
+  {
+    "remote":      "XOS",
     "repository":  "android_kernel_samsung_exynos7420",
     "target_path": "kernel/samsung/exynos7420",
     "branch":      "XOS-9.0"
